@@ -25,3 +25,5 @@ A tentative schedule is:
 | Web Scraping | 2 hours |
 | Analyzing Textual Data | 1.5 hours |
 | Mapping and Geospatial Visualization with QGIS | 1.5 hours |
+
+See more information on our [project website](https://ohsulibrary-datascienceinstitute.github.io/)
