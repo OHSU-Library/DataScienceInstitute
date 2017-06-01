@@ -28,7 +28,7 @@ A tentative schedule is:
 
 All of the teaching materials will be made openly available with a CC-BY license.
 
-**Project organizers**
+**Project organizers:**
 
 **Nicole Vasilevsky**, Project lead and instructor
 Nicole Vasilevsky is a biocurator in the Ontology Development Group in the OHSU Library and has a PhD in Cell Biology. Nicole is the project manager for the BD2K projects and has developed materials for the Open Educational Resources, as well as teaches sections on Research Data Management for the BD2K short courses.
