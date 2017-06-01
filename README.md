@@ -45,4 +45,4 @@ Letisha Wyatt is the Basic Science Liaison/Research Data Management Librarian at
 **Laura Zeigen**, Co-organizer
 Laura Zeigen is a Liaison Librarian at the OHSU Library and has an MLS in Library Science and a Master’s in Public Health. Laura has experience organizing conferences and trainings such as the Medical Library Association Regional Meeting.
 
-Google drive is [here](https://drive.google.com/drive/u/0/folders/0BwJNLRD3KsqGRmg2ZVZTYlRETlE)
+Google drive is [here](https://drive.google.com/drive/u/0/folders/0BwJNLRD3KsqGRmg2ZVZTYlRETlE). (Accessible to team members only.)
