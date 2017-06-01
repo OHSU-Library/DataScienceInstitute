@@ -27,3 +27,19 @@ A tentative schedule is:
 | Mapping and Geospatial Visualization with QGIS | 1.5 hours |
 
 All of the teaching materials will be made openly available with a CC-BY license.
+
+**Project organizers**
+Nicole Vasilevsky, Project lead and instructor
+Nicole Vasilevsky is a biocurator in the Ontology Development Group in the OHSU Library and has a PhD in Cell Biology. Nicole is the project manager for the BD2K projects and has developed materials for the Open Educational Resources, as well as teaches sections on Research Data Management for the BD2K short courses.
+
+Jackie Wirz, Project lead and instructor
+Jackie Wirz is the Assistant Dean for Graduate Studies and has a PhD in Biochemistry. Jackie teaches in the BD2K short courses and has developed materials for the Open Educational Resources. Jackie currently teaches a Data Visualization course at OHSU.
+
+Robin Champieux, Co-organizer and instructor
+Robin Champieux is the Scholarly Communication Librarian at the OHSU Library and has an MLS in Library Science. Robin is one of the lead organizers for the Data Jamborees, as well other Open Science events and training. She routinely teaches on topics related to data sharing, scientific communication, and research impact.
+
+Letisha Wyatt, Co-organizer and instructor
+Letisha Wyatt is the Basic Science Liaison/Research Data Management Librarian at the OHSU Library and has a PhD in Neuropharmacology. Letisha has conducted training in Research Data Management to graduate students, faculty and staff at OHSU.
+
+Laura Zeigen, Co-organizer
+Laura Zeigen is a Liaison Librarian at the OHSU Library and has an MLS in Library Science and a Master’s in Public Health. Laura has experience organizing conferences and trainings such as the Medical Library Association Regional Meeting.
