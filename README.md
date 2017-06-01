@@ -26,4 +26,4 @@ A tentative schedule is:
 | Analyzing Textual Data | 1.5 hours |
 | Mapping and Geospatial Visualization with QGIS | 1.5 hours |
 
-
+All of the teaching materials will be made openly available with a CC-BY license.
