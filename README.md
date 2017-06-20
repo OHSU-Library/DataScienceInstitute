@@ -6,21 +6,21 @@ The OHSU Data Science Institute will bring together researchers, librarians, and
 
 A tentative schedule is:
 
-| Day 1 | Length of time |
+| Day 1, Mon, Nov 6 | Length of time |
 |------|-----------------|
 | Data Exploration | 2 hours|
 | Biomedical Data Standards | 1 hour |
 | Statistical Analysis | 1 hour |
 | Data Visualization | 3 hours |
 |||
-| **Day 2** | **Length of time** |
+| **Day 2, Tues, Nov 7** | **Length of time** |
 | Version Control with Git and GitHub | 1 hour |
 | Data Description, Sharing, and Reuse | 2.5 hours |
 | Data Cleaning and Preparation | 2 hours |
 | Qualitative data analysis | 1 hour |
 | Publisher and Funder Data Use Agreements | 1 hour |
 |||
-| **Day 3** | **Length of time** |
+| **Day 3, Wed, Nov 8** | **Length of time** |
 | Bibliometric Analysis | 1.5 hours |
 | Web Scraping | 2 hours |
 | Analyzing Textual Data | 1.5 hours |
