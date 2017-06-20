@@ -9,7 +9,6 @@ A tentative schedule is:
 | Day 1, Mon, Nov 6 | Length of time |
 |------|-----------------|
 | Data Exploration | 2 hours|
-| Biomedical Data Standards | 1 hour |
 | Statistical Analysis | 1 hour |
 | Data Visualization | 3 hours |
 |||
